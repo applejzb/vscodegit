@@ -23,5 +23,6 @@ export default {
   color: #2c3e50;
   font-size: 22px;
   margin-top: 60px;
+  background: #fff;
 }
 </style>
